@@ -1,0 +1,17 @@
+h1 {
+    display: block;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: .8em;
+    margin-top: .8em;
+    margin-left: .8em;
+}
+
+h2 {
+    display: block;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
